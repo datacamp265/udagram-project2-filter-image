@@ -1,5 +1,6 @@
 # Solution
-Screenshot: folder
+Screenshot: https://github.com/datacamp265/udagram-project2-filter-image/blob/main/deployment_screenshots/screenshot_ph.JPG
+
 links to EB:
  - valid: http://udagram-ph-filter-image-dev.eu-central-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn1.stuttgarter-zeitung.de/media.media.5d6dcbb5-e13b-4d81-8b5b-e74d45f3d237.original1024.jpg
  - no url: http://udagram-ph-filter-image-dev.eu-central-1.elasticbeanstalk.com/filteredimage?image_url=
