@@ -31,7 +31,7 @@ import axios from 'axios';
 
   /**************************************************************************** */
 
-  app.get('/filteredimage', async (req, res) => {
+  app.get('/filteredimage', async (req: express.Request, res: express.Response) => {
     //const image_url = req.query.image_url;
     //const image_url = req.query.url.image_url;
     const {image_url} = req.query;
