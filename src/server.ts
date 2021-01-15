@@ -29,7 +29,7 @@ import axios from 'axios';
   // RETURNS
   //   the filtered image file [!!TIP res.sendFile(filteredpath); might be useful]
 
-  /**************************************************************************** */
+  /*********************************************************************** */
 
   app.get('/filteredimage', async (req, res) => {
     //const image_url = req.query.image_url;
